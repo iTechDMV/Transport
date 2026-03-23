@@ -1,0 +1,71 @@
+.home1-container10 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.home1-container11 {
+  display: none;
+}
+ 
+.home1-container12 {
+  display: contents;
+}
+ 
+.home1-thq-hero-equipment-elm {
+  color: var(--orange);
+  opacity: 0;
+  animation: fadeInUp 1s ease-out 0.3s forwards;
+  font-size: 1.1rem;
+  max-width: 600px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  letter-spacing: 1px;
+}
+ 
+.home1-container22 {
+  display: none;
+}
+ 
+.home1-container23 {
+  display: contents;
+}
+ 
+.home1-container24 {
+  display: none;
+}
+ 
+.home1-container25 {
+  display: contents;
+}
+ 
+.home1-container26 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.home1-icon35 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.home1-text57 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
